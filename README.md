@@ -22,6 +22,9 @@ predictions = clf.predict(X_test)
 print("Accuracy:", accuracy_score(y_test, predictions))
 ```
 
+
+
+
 # Reframed Approach: Regression
 
 ```
